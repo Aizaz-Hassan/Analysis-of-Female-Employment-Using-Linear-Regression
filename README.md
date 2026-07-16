@@ -6,7 +6,7 @@ A machine learning project analyzing socioeconomic factors affecting female empl
 
 Source: World Bank databank. Covers a population survey in Bangladesh spanning 1995–2019, with 12 socioeconomic indicators related to female employment (fertility rate, employment sector breakdowns, wage structure, etc.).
 
-Raw data: [`data/dataset.csv`](data/dataset.csv)
+dataset : https://www.kaggle.com/datasets/mdmuhtasimbillah/female-employment-vs-socioeconimic-factors
 
 ## Workflow
 
